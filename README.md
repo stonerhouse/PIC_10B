@@ -1,5 +1,5 @@
-# PIC_10B
-C++ homework for data structures and algorithms
+# C++ Binary Search Tree Algorithm
+PIC 10B homework for data structures and algorithms
 
 (100 pt) Problem:
 Using good coding practices, make your own binary search tree data structure of integers that consider duplicates, 
